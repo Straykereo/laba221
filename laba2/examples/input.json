@@ -1,0 +1,18 @@
+{
+  "dictionary": [
+    "десант", "адрес", "армия", "место", "метро", "стол", "соль", "дом", "рация", "тора", "магия", "гора"
+  ],
+  "mainWords": [
+    "ДЕМОНСТРАЦИЯ", "ВЗАИМНОСТЬ"
+  ],
+  "config": {
+    "minSubWordLength": 3,
+    "minWordsToPass": 2,
+    "difficultyThresholds": {
+      "easyMaxMainWordLength": 7,
+      "mediumMaxMainWordLength": 10,
+      "easyMaxSubWords": 15,
+      "mediumMaxSubWords": 30
+    }
+  }
+}
